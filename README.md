@@ -4,6 +4,8 @@ This project trains a machine learning model to classify waste into **biodegrada
 
 ## Dataset Structure
 
+Since the data is too big, the data can be downloaded from Kaggle instead at https://www.kaggle.com/datasets/rayhanzamzamy/non-and-biodegradable-waste-dataset
+
 The original dataset was split into multiple folders (`TRAIN.1`, `TRAIN.2`, `TRAIN.3`, `TRAIN.4`, and `TEST`).  
 All training folders were merged into a single dataset folder for easier model training.
 
